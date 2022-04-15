@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrHariomGupta-08
+- 👋 Hi, I’m Hariom Gupta
 - 👀 I’m interested in AI&ML and data managing .
 - 🌱 I’m currently persuing B.Tech. & working on my techinical skills . 
 - 💞️ I’m looking to collaborate on some kind of data analysis culture .
