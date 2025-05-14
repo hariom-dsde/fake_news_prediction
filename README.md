@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hariom Gupta
 - 👀 I’m interested in AI&ML and data managing .
-- 🌱 I’m currently persuing B.Tech. & working on my techinical skills . 
+- 🌱 I have done B.Tech. & working on my techinical skills . 
 - 💞️ I’m looking to collaborate on some kind of data analysis culture .
 - 📫 How to reach me ...{gmail-(guptaom244@gmail.com)}
 
